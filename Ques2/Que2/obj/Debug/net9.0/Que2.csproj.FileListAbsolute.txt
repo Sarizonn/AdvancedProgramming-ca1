@@ -12,3 +12,4 @@ C:\Users\pc\Desktop\20072632\Que2\Que2\obj\Debug\net9.0\refint\Que2.dll
 C:\Users\pc\Desktop\20072632\Que2\Que2\obj\Debug\net9.0\Que2.pdb
 C:\Users\pc\Desktop\20072632\Que2\Que2\obj\Debug\net9.0\Que2.genruntimeconfig.cache
 C:\Users\pc\Desktop\20072632\Que2\Que2\obj\Debug\net9.0\ref\Que2.dll
+C:\Users\pc\Desktop\20072632\Que2\Que2\obj\Debug\net9.0\Que2.sourcelink.json
