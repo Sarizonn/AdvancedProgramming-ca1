@@ -44,7 +44,7 @@ def start_server():
     create_db()
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     ip = "127.0.0.1"
-    port = 9000
+    port = 9001
     server.bind((ip, port))
     server.listen(5)
 
